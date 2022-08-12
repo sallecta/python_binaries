@@ -1,2 +1,2 @@
 # python_binaries
-Python binaries for linux mint
+Python binaries for Linux Mint
