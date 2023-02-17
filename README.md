@@ -49,9 +49,9 @@ Delete Python binaries directory.
 
 ## Usage
 
-Python launchers named as "sallectapip<PythonVersion>" or
+Python launchers named as "sallectapip[PythonVersion]" or
 "sallectapython[PythonVersion]" 
-where PythonVersion is major + '.' and minor versions of Python release. 
+where [PythonVersion] is major + '.' and minor versions of Python release. 
 
 For example, here is Python launchers for version 3.9.16:
 - sallectapip3.9
