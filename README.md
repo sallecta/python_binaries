@@ -4,6 +4,7 @@ Python binaries for Linux Mint.
 https://github.com/sallecta/python_binaries
 
 
+
 ## Building Python binaries
 
 Check target Python version in settings.sh 
@@ -13,6 +14,7 @@ Check target Python version in settings.sh
 ./build.sh deploy 64
 ./build.sh clean
 ```
+
 
 
 ## Installation
@@ -35,6 +37,7 @@ To make binaries accessible from any location run symlinks script.
 ```
 
 
+
 ## Uninstall
 
 If symlinks created, open terminal where Python binaries located 
@@ -45,6 +48,7 @@ and execute following.
 
 ```
 Delete Python binaries directory.
+
 
 
 ## Usage
